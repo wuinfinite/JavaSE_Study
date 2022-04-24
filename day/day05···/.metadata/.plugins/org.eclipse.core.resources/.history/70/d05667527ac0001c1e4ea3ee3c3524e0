@@ -1,0 +1,8 @@
+package com.zipeng.java;
+
+public class OopTest {
+	public static void main(String[] args) {
+		System.out.println();
+		
+	}
+}

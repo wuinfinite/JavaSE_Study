@@ -1,0 +1,10 @@
+package com.zipeng.java;
+
+//java中的单元测试
+
+public class JunitTest {
+	
+	public void testEquals(){
+		
+	}
+}

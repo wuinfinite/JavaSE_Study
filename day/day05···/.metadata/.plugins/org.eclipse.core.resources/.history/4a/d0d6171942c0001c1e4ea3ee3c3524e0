@@ -1,0 +1,21 @@
+package com.zipeng.exer;
+
+public class yangHuiTest {
+	public static void main(String[] args) {
+		int[][] yangHui = new int [10][];
+		//给元素赋值
+		for(int i = 0; i < yangHui.length; i++){
+			yangHui[i] = new int[i+1];
+			
+			yangHui[i][0] = yangHui[i][i] = 1;
+			
+			
+		}
+		//遍历二维数组
+		for(int i = 0; i < yangHui.length; i++){
+			for(int j = 0; j < yangHui[i].length; j++){
+				System.out.println(yangHui[i][j] + " ");
+			}
+		}
+	}
+}

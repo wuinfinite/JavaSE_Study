@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.zipeng.javaj&apos; to &apos;com.zipeng.java&apos;&#x0D;&#x0A;- Original project: &apos;day10&apos;&#x0D;&#x0A;- Original element: &apos;day10/src/com.zipeng.javaj&apos;&#x0D;&#x0A;- Renamed element: &apos;day10/src/com.zipeng.java&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.zipeng.javaj&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.zipeng.javaj" name="com.zipeng.java" qualified="false" references="true" stamp="1650595867301" textual="false" version="1.0"/>
+</session>

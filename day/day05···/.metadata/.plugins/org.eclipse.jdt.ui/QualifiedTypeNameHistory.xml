@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.rmi.server.SocketSecurityException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.zipeng.exer.Customer"/>
+<fullyQualifiedTypeName name="com.zipeng.exer.Account"/>
+<fullyQualifiedTypeName name="com.zipeng.java.CheckAccount"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.zipeng.p2.bean.Customer"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.dsig.CanonicalizationMethod"/>
+<fullyQualifiedTypeName name="com.zipeng.p2.service.CustomerList"/>
+<fullyQualifiedTypeName name="com.zipeng.p2.util.CMUtility"/>
+</qualifiedTypeNameHistroy>

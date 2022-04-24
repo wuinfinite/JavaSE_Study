@@ -1,0 +1,9 @@
+package com.zipeng.SwitchTest;
+
+import java.util.Scanner;
+
+public class SwitchTest2 {
+	public static void main(String[] args) {
+		System.out.println("");
+	}
+}

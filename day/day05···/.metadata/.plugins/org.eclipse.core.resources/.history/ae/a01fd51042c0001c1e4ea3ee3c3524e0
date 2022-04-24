@@ -1,0 +1,11 @@
+package com.zipeng.exer;
+
+public class yangHuiTest {
+	public static void main(String[] args) {
+		int[][] yangHui = new int [10][];
+		//给元素赋值
+		for(int i = 0; i < yangHui.length; i++){
+			yangHui [i] = new int[i+1];
+		}
+	}
+}

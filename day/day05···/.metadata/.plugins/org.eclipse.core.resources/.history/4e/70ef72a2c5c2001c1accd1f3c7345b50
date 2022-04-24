@@ -1,0 +1,13 @@
+package com.zipeng.p2.bean;
+/**
+ * 
+*
+* @Descrpition Customer为实体对象 封装客户信息
+* @author zipeng   Email：zipeng@555.com
+* @version
+* @date  2022年4月23日下午12:46:47
+*
+ */
+public class Customer {
+
+}
