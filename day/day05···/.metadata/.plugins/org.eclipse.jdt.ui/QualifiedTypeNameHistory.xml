@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="javax.xml.crypto.dsig.CanonicalizationMethod"/>
 <fullyQualifiedTypeName name="com.zipeng.p2.service.CustomerList"/>
 <fullyQualifiedTypeName name="com.zipeng.p2.util.CMUtility"/>
+<fullyQualifiedTypeName name="com.zipeng.java.ProxySever"/>
 </qualifiedTypeNameHistroy>
