@@ -2,6 +2,9 @@
 
 ## 1.快捷键
 
+* main +alt + /
+* syso + alt + /
+
 ![](D:\code尚硅谷\java笔记\imsges\26.png)
 
 ![](D:\code尚硅谷\java笔记\imsges\27.png)

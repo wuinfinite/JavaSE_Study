@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" filepath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
     </modules>
   </component>
