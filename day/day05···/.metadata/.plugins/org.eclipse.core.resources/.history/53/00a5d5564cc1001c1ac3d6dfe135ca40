@@ -1,8 +1,0 @@
-package com.zipeng.exer;
-
-public class Customer {
-	private String firstName;
-	private String lastName;
-	private Account account;//Account自定义类
-	
-}

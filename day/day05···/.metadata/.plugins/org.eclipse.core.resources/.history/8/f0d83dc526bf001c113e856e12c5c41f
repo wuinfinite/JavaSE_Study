@@ -1,7 +1,0 @@
-package com.zipeng.FamilyAccount;
-
-public class FamilyAccount {
-	public static void main(String[] args) {
-		
-	}
-}
