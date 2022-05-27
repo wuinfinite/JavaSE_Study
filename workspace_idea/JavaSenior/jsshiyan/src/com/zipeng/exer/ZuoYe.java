@@ -67,23 +67,23 @@ public class ZuoYe {
         zuoYe1.SCMethod3(arr33,arr4);//更新
 //        zuoYe1.ForArray(arr4);
 
-//        zuoYe1.ForArray(arr1);
-//        System.out.println();
-//        zuoYe1.ForArray(arr2);
-//        System.out.println();
-//        zuoYe1.ForArray(arr3);
-//        System.out.println();
-//        zuoYe1.ForArray(arr4);
+        zuoYe1.ForArray(arr1);
+        System.out.println();
+        zuoYe1.ForArray(arr2);
+        System.out.println();
+        zuoYe1.ForArray(arr3);
+        System.out.println();
+        zuoYe1.ForArray(arr4);
 
-        x4 = arr4[4] / arr4[3];
-        x3 = (arr3[4] - x4 * arr3[3]) / arr3[2];
-        x2 = (arr2[4] - x4 * arr2[3] - x3 * arr2[2]) / arr2[1];
-        x1 = (arr1[4] - x4 * arr1[3] - x3 * arr1[2] - x2 * arr1[1]) / arr1[0];
-
-        System.out.println("x1的值为：" + x1);
-        System.out.println("x2的值为：" + x2);
-        System.out.println("x3的值为：" + x3);
-        System.out.println("x4的值为：" + x4);
+//        x4 = arr4[4] / arr4[3];
+//        x3 = (arr3[4] - x4 * arr3[3]) / arr3[2];
+//        x2 = (arr2[4] - x4 * arr2[3] - x3 * arr2[2]) / arr2[1];
+//        x1 = (arr1[4] - x4 * arr1[3] - x3 * arr1[2] - x2 * arr1[1]) / arr1[0];
+//
+//        System.out.println("x1的值为：" + x1);
+//        System.out.println("x2的值为：" + x2);
+//        System.out.println("x3的值为：" + x3);
+//        System.out.println("x4的值为：" + x4);
 
 
 
